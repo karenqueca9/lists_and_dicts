@@ -5,5 +5,6 @@ programmer = {
 }
 
 #El metodo items() nos devuelve una estructura de datos diferente.
-#Esta estructura se denomina Tupla, que son pares de valores.
+#Esta estructura se denomina Tupla, que son pares de valores entre ()
 print(programmer.items())
+
